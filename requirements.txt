@@ -10,6 +10,6 @@ fastapi==0.101.1
 uvicorn==0.23.1
 python-multipart==0.0.6
 torch==2.5.0
-torchvision==0.25.0
+torchvision==0.24.0
 torchaudio==2.5.0
 
